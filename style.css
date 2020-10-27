@@ -1,10 +1,14 @@
+.image {
+    margin-left: 18vh;
+}
+
 .move {
-    margin-left: 15vw;
+    margin-left: 21vw;
 }
 
 .links {
-    padding-top: 5vh;
-    padding-left: 25vw;
+    padding-top: 6vh;
+    padding-left: 18vw;
 }
 
 main {
@@ -33,4 +37,8 @@ a:hover {
 
 a:active {
     text-decoration: none;
+}
+
+.container2 {
+    margin-left: 18vh;
 }
