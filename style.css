@@ -1,34 +1,27 @@
 .image {
-    margin-left: 18vh;
-}
-
-.move {
-    margin-left: 21vw;
-}
-
-.links {
-    padding-top: 6vh;
-    padding-left: 18vw;
+    transform: scale(.85);
 }
 
 main {
-    background-color: lightblue;
-    margin-top: 10vh;
+    background-image: url("https://cdn.shopify.com/s/files/1/0010/0994/2575/products/2066-70-lightblue_0e38026d-498a-45d9-8dcb-5f05f37baa9f_2000x.png?v=1576883959");
+    background-size: cover;
 }
 
-.whitespace {
+.full {
     width: 100%;
 }
 
 .github {
     height: 70px;
     width: auto;
+    transform: scale(.9);
 }
 
 .linkedin {
     height: 100px;
     width: auto;
     margin-bottom: 5vh;
+    transform: scale(1.2);
 }
 
 a:hover {
@@ -37,8 +30,4 @@ a:hover {
 
 a:active {
     text-decoration: none;
-}
-
-.container2 {
-    margin-left: 18vh;
 }
