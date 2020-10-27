@@ -1,0 +1,28 @@
+.move {
+    margin-left: 15vw;
+}
+
+.links {
+    padding-top: 5vh;
+    padding-left: 25vw;
+}
+
+main {
+    background-color: lightblue;
+    margin-top: 10vh;
+}
+
+.whitespace {
+    width: 100%;
+}
+
+.github {
+    height: 70px;
+    width: auto;
+}
+
+.linkedin {
+    height: 100px;
+    width: auto;
+    margin-bottom: 5vh;
+}
