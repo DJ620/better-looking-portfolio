@@ -1,14 +1,33 @@
-.image {
-    transform: scale(.85);
+.text-blue {
+    color: #425be7;
+}
+
+.link-color {
+    color: #576ef0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.one-pix {
+    margin-top: -1px;
 }
 
 main {
-    background-image: url("https://cdn.shopify.com/s/files/1/0010/0994/2575/products/2066-70-lightblue_0e38026d-498a-45d9-8dcb-5f05f37baa9f_2000x.png?v=1576883959");
-    background-size: cover;
+    margin-top: 10vh;
+    background: #576ef0;
+    transform: skewY(-6deg);
 }
 
-.full {
+.block {
+    padding-top: 10vh;
+    transform: skewY(6deg);
+}
+
+.space {
     width: 100%;
+    height: 70px;
 }
 
 .github {
@@ -20,14 +39,9 @@ main {
 .linkedin {
     height: 100px;
     width: auto;
-    margin-bottom: 5vh;
     transform: scale(1.2);
 }
 
-a:hover {
-    text-decoration: none;
-}
-
-a:active {
-    text-decoration: none;
+.move {
+    margin-right: -3px;
 }
