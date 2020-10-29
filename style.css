@@ -50,3 +50,7 @@ main {
 .move {
     margin-right: -3px;
 }
+
+.about-me {
+    line-height: 1.5em;
+}
