@@ -38,7 +38,7 @@ name.addEventListener("click", function() {
     contact.style.display = "none";
     aboutLink.style.fontWeight="normal";
     portLink.style.fontWeight="normal";
-    contactLinke.style.fontWeight = "normal";
+    contactLink.style.fontWeight = "normal";
 })
 
 contactLink.addEventListener("click", function() {
