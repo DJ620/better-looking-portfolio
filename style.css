@@ -54,3 +54,12 @@ main {
 .about-me {
     line-height: 1.5em;
 }
+
+button {
+    border: none;
+    background: none;
+}
+
+button:focus {
+    outline: none;
+} 
