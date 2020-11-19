@@ -12,6 +12,7 @@ body {
 
 .text-yellow {
     color: #ECA009;
+    text-shadow: 5px 5px 20px black;
 }
 
 .link-color {
@@ -64,7 +65,13 @@ main {
 }
 
 .project {
-    color: rgb(211, 211, 211);
+    color: #576ef0;
+    -webkit-text-stroke: 1px #ECA009;
+    text-shadow: 5px 5px 20px black;
+}
+
+img {
+    border-radius: 25px;
 }
 
 .repo {
@@ -110,6 +117,8 @@ main {
 
 .about-me {
     line-height: 1.5em;
+    font-size: 22px;
+    text-shadow: 5px 5px 25px black;
 }
 
 .subtext {
@@ -118,6 +127,10 @@ main {
 
 .headshot {
     box-shadow: 5px 5px 20px -5px black;
+}
+
+#contact {
+    text-shadow: 5px 5px 20px black;
 }
 
 .form-control {
