@@ -12,7 +12,7 @@ background-image: url("https://www.transparenttextures.com/patterns/white-diamon
 }
 
 .text-yellow {
-    color: #ECA009;
+    color: #F7B801;
     text-shadow: 5px 5px 20px black;
 }
 
@@ -45,7 +45,7 @@ li .link-color:active {
 main {
     margin-top: 10vh;
     background-color: #6f83f5;
-    background-image: url("https://www.transparenttextures.com/patterns/gun-metal.png");
+    background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
     transform: skewY(-6deg);
     box-shadow: 2px 2px 10px 1px black;
 }
@@ -67,7 +67,7 @@ main {
 }
 
 .project {
-    color: #ECA009;
+    color: #F7B801;
     -webkit-text-stroke: 1px #576ef0;
     text-shadow: 5px 5px 20px black;
 }
@@ -77,12 +77,12 @@ img {
 }
 
 .repo {
-    background-color: #ECA009;
+    background-color: #F7B801;
     box-shadow: 2px 2px 10px 1px black;
 }
 
 .repo:hover {
-    background-color: #bf830a;
+    background-color: #dea705;
 }
 
 .box-shadow {
