@@ -93,6 +93,10 @@ img {
     box-shadow: 5px 5px 15px 2px black;
 }
 
+.technologies {
+    color: #F7B801;
+}
+
 .github {
     height: 70px;
     width: auto;

@@ -1,0 +1,23 @@
+{
+  "name": "better-looking-portfolio",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ620/better-looking-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ620/better-looking-portfolio/issues"
+  },
+  "homepage": "https://github.com/DJ620/better-looking-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
