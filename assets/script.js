@@ -1,5 +1,3 @@
-$(document).ready({
-
-    $("#contact-form")
-    
+$("#contact-form").on("submit", event => {
+    event.preventDefault();
 })
